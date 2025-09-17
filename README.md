@@ -38,9 +38,6 @@ It allows you to ask **natural language questions** about a PDF document, automa
 
 ---
 
-
----
-
 ## ⚙️ Installation
 
 1. **Clone the repository**
